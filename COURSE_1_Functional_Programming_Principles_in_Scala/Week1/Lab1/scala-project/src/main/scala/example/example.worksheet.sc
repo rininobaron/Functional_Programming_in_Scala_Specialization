@@ -3,3 +3,6 @@
 val x = 42
 
 x * x
+
+println("Hola Mundo")
+
